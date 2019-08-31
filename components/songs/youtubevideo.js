@@ -4,7 +4,7 @@ import { StackNavigator } from 'react-navigation'
 import YouTube from 'react-native-youtube'
 
 import { Images, Metrics, Fonts, Colors } from "../../themes";
-const MyApiKey = "AIzaSyD01aiO53L3PL-88hqIfFvzYzwASk7Yjxo"
+const MyApiKey = ""
 export default class YouTubeVideo extends React.Component{
     static navigationOptions = {
         headerTitle: 'YouTube',
